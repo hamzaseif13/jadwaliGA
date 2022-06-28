@@ -16,7 +16,6 @@ public class Section {
         this.endTime = endTime;
         dayss.forEach(day->{days.add(day);});
         this.number=sectionNumber;
-
     }
 
     public int getNumber() {
